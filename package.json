@@ -1,0 +1,15 @@
+{
+  "name": "aniquiz",
+  "version": "0.1.0",
+  "description": "Anime quiz generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "engines": {
+    "node": "14.x",
+    "npm": "*"
+  },
+  "author": "Sakurajimai#6742",
+  "license": "ISC"
+}
