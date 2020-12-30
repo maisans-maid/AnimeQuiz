@@ -1,6 +1,13 @@
 ## Anime Quiz
 #### Generate random anime quiz!
 
+[![App Version](https://img.shields.io/npm/v/aniquiz)](https://www.npmjs.com/package/aniquiz)
+[![Node](https://img.shields.io/node/v/aniquiz?color=green&logo=Node.js&logoColor=white)](https://nodejs.org/dist/latest-v14.x/)
+[![License](https://img.shields.io/github/license/maisans-maid/Mai?color=blue&label=License)](https://github.com/maisans-maid/animequiz/blob/master/LICENSE)
+<br />
+
+[![](https://nodei.co/npm/aniquiz.png)](https://www.npmjs.com/package/aniquiz)
+
 ### Installation
 ```js
 npm i aniquiz
