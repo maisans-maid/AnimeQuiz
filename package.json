@@ -11,5 +11,9 @@
     "npm": "*"
   },
   "author": "Sakurajimai#6742",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maisans-maid/AnimeQuiz.git"
+  }
 }
