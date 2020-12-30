@@ -2,6 +2,9 @@
 #### Generate random anime quiz!
 
 ### Installation
+```js
+npm i aniquiz
+```
 
 ### Usage
 #### Generate random anime quiz
@@ -19,10 +22,6 @@ console.log(animequiz.getEntry({ image: true })
 
 // Quiz object without image
 console.log(animequiz.getEntry({ image: false }))
-
-// Get quiz entries
-console.log(animequiz.getEntries({ options }))
-
 ```
 
 ### Options
