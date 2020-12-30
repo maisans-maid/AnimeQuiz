@@ -178,4 +178,4 @@ function getEntries(options = {}){
   return data;
 };
 
-module.exports = { getEntry, Quiz };
+module.exports = { getEntry, getEntries, Quiz };
